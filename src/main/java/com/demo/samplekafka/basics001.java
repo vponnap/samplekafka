@@ -8,9 +8,10 @@ public class basics001 {
 //	Always no CE when there is data assignment 
 //  happens from lower value to higher value . This is called implicit type casting	
 // Assignment happens on higher value to lower value type casting is required.
-//byte->short->int->long->float->double
+//byte->short->int->long->float->double]
 		
 		char c = 'v';
+		String name='Venkareddy';
 		int i = c;
 		
 		byte b =10;
@@ -55,3 +56,4 @@ public class basics001 {
 	}
 
 }
+
